@@ -1,7 +1,7 @@
 # Python concepts
 Python topics to remember.
 ### List
-Lists are mutuble Python objects
+Lists are mutable Python objects
 ### Tuples
 These are immutable Python objects
 ### Dictionaries
